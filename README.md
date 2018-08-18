@@ -1,5 +1,5 @@
-# Monty-Hall-Problem-Simulator
+# monty-hall-problem-simulator
 
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
-A small simulation experiment because I needed reassurance that the theory was right.
+A small monty hall problem experiment for fun.
